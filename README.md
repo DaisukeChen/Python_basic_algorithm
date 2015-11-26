@@ -7,6 +7,7 @@ Qustion1.1
 ・Implement an algorithm to determine if a string has all unique characters.
 
 Qustion1.2
+・Implement an algorithm to add '' on vacant string
 
 Qustion1.3
 
