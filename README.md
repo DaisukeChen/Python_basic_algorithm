@@ -13,5 +13,6 @@ Qustion1.3
 ・A method for compare two strings to check two strings are same or not
 
 Qustion1.4
+・A method for determine of final distance and direction from initial point by using argument
 
 Qustion1.5
