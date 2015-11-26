@@ -10,6 +10,7 @@ Qustion1.2
 ・Implement an algorithm to add '' on vacant string
 
 Qustion1.3
+・A method for compare two strings to check two strings are same or not
 
 Qustion1.4
 
