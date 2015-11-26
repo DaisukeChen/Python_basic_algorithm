@@ -15,7 +15,7 @@ def space_string(string):
   char_list = list(string)
 
 #check each string one by one and insert '' on vacant  
-#リスト化した文字を一つ一つ参照して、文字がからの('')の場合、文字を挿入する。
+
         
 #counter will be increased
   counter = 0
